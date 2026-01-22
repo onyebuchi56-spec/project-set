@@ -1,2 +1,3 @@
 # project-set
-This repo contains python
+This repo consists of python
+## set up
